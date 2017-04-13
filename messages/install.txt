@@ -1,0 +1,10 @@
+SublimeLinter-contrib-staticcheck
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to staticcheck.
+
+** IMPORTANT! **
+
+Before this plugin will activate, you *must*
+follow the installation instructions here:
+
+https://github.com/Cory Locklear/SublimeLinter-contrib-staticcheck
